@@ -47,7 +47,7 @@ where:
 
 ## Conclusion
 ### The Best Algorithm?
-This research demonstrates that Naive Bayes classifiers exhibited the highest accuracy and consistency (low RMSE values) compared to other algorithms, making them suitable for predicting future crime-heavy areas. However, they also had the highest runtime, with an average of 83 seconds on a cloud environment using current industry-grade graphics cards and processing power. 
+This research demonstrates that Naive Bayes exhibited the highest accuracy (83%) and consistency (low RMSE values) compared to other algorithms, making them suitable for predicting future crime-heavy areas. However, they also had the highest runtime, with an average of 103 seconds on a cloud environment using current industry-grade graphics cards and processing power.
 
 ### Creating a Scalable Model
 For real-world applications, it might be more effective to use Random Forests, which delivered a much shorter runtime of only 21 seconds while maintaining over 50% accuracy overall. However, since regression models generally have the shortest runtimes, optimizing them for greater accuracy could be highly beneficial. Future attempts at a scalable model should incorporate non-linear regression, allowing for a more adaptable prediction function that could improve both accuracy and speed. One could also include data from socioeconomic datasets for the city being studied, which would enable features like average wages, city expenditures, and other socioeconomic indicators to be included in crime prediction models, potentially increasing prediction accuracy and reliability.
