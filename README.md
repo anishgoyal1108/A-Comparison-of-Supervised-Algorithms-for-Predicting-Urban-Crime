@@ -32,17 +32,17 @@ where:
 ## Visualizations
 ### RMSEs For Each Supervised Algorithm
 <p align="center">
-<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/main/img/root_mean_square_error.png" />
+<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/master/img/root_mean_square_error.png?raw=true" />
 </p>
 
 ### Predicted 2019 Crime Heat Map
 <p align="center">
-<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/main/img/2019_predict.png" />
+<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/master/img/2019_predict.png?raw=true" />
 </p>
 
 ### Actual 2019 Crime Heat Map
 <p align="center">
-<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/main/img/2019.png" />
+<img src="https://github.com/anishgoyal1108/A-Comparison-of-Supervised-Algorithms-for-Predicting-Urban-Crime/blob/master/img/2019.png?raw=true" />
 </p>
 
 ## Conclusion
